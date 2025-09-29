@@ -1,0 +1,5 @@
+{
+  "name": "Analizador IA Multi-Modal",
+  "description": "Una aplicación para realizar OCR en documentos PDF y transcribir archivos de audio y video utilizando la API de Gemini. Sube un archivo y deja que la IA lo procese por ti.",
+  "requestFramePermissions": []
+}
