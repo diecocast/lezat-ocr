@@ -54,7 +54,7 @@ const App: React.FC = () => {
           </div>
         </main>
         <footer className="text-center mt-8 text-text-secondary text-sm">
-          <p>Desarrollado con Google Gemini</p>
+          <p>Desarrollado por Lezat</p>
         </footer>
       </div>
     </div>
